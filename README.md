@@ -1,12 +1,7 @@
 # SNHU-CS-330-Project
 # How do I approach designing software?
-What new design skills has your work on the project helped you to craft?
-What design process did you follow for your project work?
-How could tactics from your design approach be applied in future work?
+While working on this project, I learned to focus on planning and organizing my work before writing any code. I first thought about what I wanted to create and then broke it down into smaller tasks. This project helped me develop skills in planning and choosing the tools and methods for the work. In the future, I can use these tactics by always starting with a clear plan, researching the best tools for the project, and breaking tasks into steps.
 # How do I approach developing programs?
-What new development strategies did you use while working on your 3D scene?
-How did iteration factor into your development?
-How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+During the development of my 3D scene, I used new strategies like breaking down the project into smaller parts and testing each part individually. I repeatedly made small changes and tested them to see if they worked. My approach improved as I learned to write cleaner, more efficient code and to test more frequently. These strategies helped me complete the project successfully by allowing me to fix problems early and improve my code.
 # How can computer science help me in reaching my goals?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+Learning about computational graphics and visualizations has given me new skills in working with 3D shapes, texturing, and lighting. These skills can be applied in many areas. For example, in my education, I can use them to create more visually appealing and creative projects or simulations. Professionally, these skills are valuable in fields like game development and virtual reality, where understanding how to create and manipulate 3D objects is crucial. This knowledge helps me build 3D scenarios, making me more knowledgeable in programming and competitive in the job market.
